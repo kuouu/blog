@@ -20,12 +20,12 @@ params:
 
     sidebar:
         compact: false
-        emoji:
-        subtitle:
+        emoji: 🥺
+        subtitle: hi!
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.png
+            local: false
+            src: https://avatars.githubusercontent.com/u/20458463?v=4
 
     article:
         math: false

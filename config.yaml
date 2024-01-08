@@ -150,3 +150,7 @@ params:
             enabled: true
         content:
             enabled: true
+    render:
+        image:
+            externalLink:
+                enabled: true

@@ -3,6 +3,11 @@ module:
         extended: true
         min: "0.87.0"
 
+title: kuouu
+description: kuouu's blog
+
+googleAnalytics: G-D9WP3KE61L
+
 params:
     mainSections:
         - post

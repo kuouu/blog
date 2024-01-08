@@ -8,6 +8,10 @@ description: kuouu's blog
 
 googleAnalytics: G-D9WP3KE61L
 
+permalinks:
+    post: /p/:slug/
+    page: /:slug/
+
 params:
     mainSections:
         - post

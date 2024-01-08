@@ -1,3 +1,12 @@
+---
+title: CMU-SV MSSE 第一學期心得
+date: 2023-12-25
+slug: cmusv-semester-1
+image: https://upload.wikimedia.org/wikipedia/commons/d/d4/Carnegie_Mellon_West_Building_23_Front_Entrance.jpg
+categories:
+    - CMU
+---
+
 # CMU-SV MSSE 第一學期心得
 
 ![](https://sv.cmu.edu/_files/images/logos/cmusv.png)

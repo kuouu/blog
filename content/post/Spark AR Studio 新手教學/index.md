@@ -2,17 +2,15 @@
 title: Spark AR Studio 新手教學
 date: 2021-02-03
 slug: spark-ar-tutorial
+description: Spark AR Studio 新手教學，介紹一些比較常用到的功能，以及一個小小的 project 實作
 categories:
     - AInimal
-image: https://i.imgur.com/q3Ws0Hc.png
+image: https://i.imgur.com/ixYuWA2.png
 ---
 
 # Spark AR Studio 新手教學
-###### tags: `AInimal` `程人頻道`
 
 版本號：Spark AR Studio V125
-
-> Spark AR Studio 新手教學，介紹一些比較常用到的功能，以及一個小小的 project 實作
 
 ---
 
@@ -132,7 +130,7 @@ material 中最上方應該會有一個屬性叫做 Shader Type，選擇 **Retou
 
 如果需要，下方的 Skin Smoothing 可以調整美肌強度。
 
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F91514b4e-da63-44cc-a49b-2eff4ee549f9%2FUntitled.png?table=block&id=d07d9f34-655f-47a6-9241-e1081effb63c&width=3070&userId=7af45ef0-62e9-49d2-a2aa-35ff33d00963&cache=v2)
+![](https://cdn-images-1.medium.com/v2/resize:fit:1600/0*jBobFjUXeb7Q506o)
 
 那我們就完成第一步了，耶！😆
 

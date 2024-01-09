@@ -84,3 +84,11 @@ SV 校區在 mountain view 的 NASA 園區，建築主要只有一棟樓，資�
 ![](https://s3.amazonaws.com/handshake.production/app/public/assets/career_fairs/40983/original/Converge2023.png?1685122906)
 
 職涯中心除了舉辦 Career Fair 之外，也會常常邀請校友來跟大家介紹自己的公司或一些求職技巧，但這就比較憑個人本事了，目前我認識的人當中還沒有聽到有人因此拿到面試的。
+
+---
+
+## 其他資料
+
+- [CMU ECE MS Handbook（每年都會更新）](https://www.ece.cmu.edu/_files/academics/ms-sv-catalog-handbook.pdf)
+- [MS-SE Program Orientation](https://drive.google.com/file/d/1lyi4UqW68tXxWm0VEVljh6uLpfHsAFEs/preview)
+- [ECE Grad Program Overview](https://drive.google.com/file/d/1972yvKWyIHLEr1c1lSjdvp9eXgu4WWmH/preview)

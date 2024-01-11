@@ -96,14 +96,14 @@ params:
             lang:
 
         giscus:
-            repo: kuouu/blog-comment
-            repoID: R_kgDOLDnTQA
+            repo: kuouu/blog
+            repoID: R_kgDOHX1iZQ
             category: Announcements
-            categoryID: DIC_kwDOLDnTQM4CcWmd
+            categoryID: DIC_kwDOHX1iZc4CcWpY
             mapping: title
             strict: 0
             lightTheme: light
-            darkTheme: dark
+            darkTheme: noborder_gray
             reactionsEnabled: 1
             emitMetadata: 0
             inputPosition: bottom

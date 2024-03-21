@@ -165,11 +165,25 @@ SV 校區在 mountain view 的 NASA 園區，建築主要只有一棟樓，資�
 - [MS-SE Program Orientation](https://drive.google.com/file/d/1lyi4UqW68tXxWm0VEVljh6uLpfHsAFEs/preview)
 - [ECE Grad Program Overview](https://drive.google.com/file/d/1972yvKWyIHLEr1c1lSjdvp9eXgu4WWmH/preview)
 
+### 相關社團
+
+- [CMU TSS in Bay Area](https://www.facebook.com/groups/cmusvtaiwan/)
+- [TSS in Pittsburgh](https://www.facebook.com/groups/tsstaiwan/)
+
+### 課程資訊
+
+- [CMU Schedule Of Classes](https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search)
+- [Discord | @TurtleBot](https://discord.com/channels/@me/1095902258140561509)
+- [CMU Courses](https://cmucourses.com/)
+- [CMUSV 個別課程心得](https://docs.google.com/presentation/d/1r4Vv5UZMXRDcf2_79wko1yLAgIHQgNx1XxOJ5lKt92o/)
+
 ### 其他參考資料
 
+- [CMUSV TSS Handbook](/@r1psPkx2S-a3PJEGheDl7g/SkpKlvvm9)
 - [(2023) 进可攻退可守的找工神校：CMU-SV MSSE 第一学期体验](https://www.1point3acres.com/bbs/thread-959513-1-1.html)
 - [(2021) CMU-SE-SV 就读体验及选课分享。很高兴可以看到，这里变得越来越好](https://www.1point3acres.com/bbs/thread-925407-1-1.html)
 - [(2021) yet another CMU-SV-SE一年半的感受/选课/排雷](https://www.1point3acres.com/bbs/thread-754839-1-1.html)
 - [(2021) CMU SE SV劝退指南 - 纠结中的新生必看](https://www.1point3acres.com/bbs/thread-750772-1-1.html)
 - [(2021) CMU SESV劝退贴【续】](https://www.1point3acres.com/bbs/thread-752084-1-1.html)
 - [(2020) CMU SESV 入学感受+劝退指南](https://www.1point3acres.com/bbs/thread-693086-1-1.html)
+- [匹茲堡生存手冊](https://surviverse.org/)

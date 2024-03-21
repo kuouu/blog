@@ -13,7 +13,7 @@ categories:
 
 ### Program 簡介
 
-program 全名為 Master of Science in Software Engineering，找工向 program，16 個月畢業，如果是春季入學的話不能實習
+program 全名為 Master of Science in Software Engineering，找工向 program，16 個月畢業，如果是春季入學的話不能實習，除非你先去其他學校半個學期
 
 在收人方面我感覺托福 95+ 應該就夠了，背景我猜是看工作經歷，然後如果有網頁開發感覺更好（畢竟這邊必修主要都教這個），但也是有部分人沒有工作經驗。另外轉碼感覺也蠻友好的，很多大學都不是 CS 畢業的
 
@@ -27,7 +27,9 @@ MSSE 畢業所需學分數為 97，但每學期至少修滿 36 學分（== 3堂�
 
 ![image](https://hackmd.io/_uploads/ry0cFZAIT.png)
 
-老師大概是上面這四位，其中 H 老師好像是這個 program 的老大的樣子吧，選課的話大家都會推 Leo
+老師大概是上面這四位，其中 H 老師好像是這個 program 的老大的樣子吧，但他本人在匹茲堡校區。選課跟 research 的話大家都會推 Leo
+
+（第二學期的我：SV 校區的課還是不要抱太大的期望🥲）
 
 ---
 
@@ -155,8 +157,19 @@ SV 校區在 mountain view 的 NASA 園區，建築主要只有一棟樓，資�
 
 ---
 
-## 其他資料
+## 外部連結
+
+### 學校資訊
 
 - [CMU ECE MS Handbook（每年都會更新）](https://www.ece.cmu.edu/_files/academics/ms-sv-catalog-handbook.pdf)
 - [MS-SE Program Orientation](https://drive.google.com/file/d/1lyi4UqW68tXxWm0VEVljh6uLpfHsAFEs/preview)
 - [ECE Grad Program Overview](https://drive.google.com/file/d/1972yvKWyIHLEr1c1lSjdvp9eXgu4WWmH/preview)
+
+### 其他參考資料
+
+- [(2023) 进可攻退可守的找工神校：CMU-SV MSSE 第一学期体验](https://www.1point3acres.com/bbs/thread-959513-1-1.html)
+- [(2021) CMU-SE-SV 就读体验及选课分享。很高兴可以看到，这里变得越来越好](https://www.1point3acres.com/bbs/thread-925407-1-1.html)
+- [(2021) yet another CMU-SV-SE一年半的感受/选课/排雷](https://www.1point3acres.com/bbs/thread-754839-1-1.html)
+- [(2021) CMU SE SV劝退指南 - 纠结中的新生必看](https://www.1point3acres.com/bbs/thread-750772-1-1.html)
+- [(2021) CMU SESV劝退贴【续】](https://www.1point3acres.com/bbs/thread-752084-1-1.html)
+- [(2020) CMU SESV 入学感受+劝退指南](https://www.1point3acres.com/bbs/thread-693086-1-1.html)

@@ -1,7 +1,11 @@
 ![Stack](https://i.imgur.com/cCiHOGS.jpg)
+
 # Hugo Theme Stack
 
 > Card-style Hugo theme designed for bloggers.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kuouu/blog)
+
 
 ## Quickstart
 

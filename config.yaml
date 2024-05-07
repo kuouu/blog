@@ -37,7 +37,7 @@ params:
             src: https://avatars.githubusercontent.com/u/20458463?v=4
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: false
         license:

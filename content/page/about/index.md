@@ -2,7 +2,6 @@
 title: About Me
 date: 2023-05-07
 slug: about
-image: https://hackmd.io/_uploads/rkU_nswfA.png
 comments: false
 links:
   - title: GitHub

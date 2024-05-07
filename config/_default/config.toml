@@ -14,10 +14,3 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
-
-enableGitInfo = true
-[frontmatter]
-  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
-  expiryDate = ['expirydate', 'unpublishdate']
-  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
-  publishDate = ['publishdate', 'pubdate', 'published', 'date']

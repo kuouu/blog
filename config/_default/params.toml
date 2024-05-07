@@ -57,7 +57,7 @@ enabled = true
 provider = "giscus"
 
 [comments.giscus]
-repo = "kuouu/kuouu.github.io"
+repo = "kuouu/blog"
 repoID = "R_kgDOHX1iZQ"
 category = "Announcements"
 categoryID = "DIC_kwDOHX1iZc4CcWpY"

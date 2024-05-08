@@ -32,6 +32,9 @@ default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 
+[[widgets.page]]
+type = "toc"
+
 [opengraph.twitter]
 site = ""
 card = "summary_large_image"

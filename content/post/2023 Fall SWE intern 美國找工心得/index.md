@@ -2,7 +2,7 @@
 title: 2023 Fall SWE intern 美國找工心得
 date: 2024-05-08
 slug: 2023-fall-swe-intern
-image: https://hackmd.io/_uploads/BkeM-EIfR.jpg
+image: https://hackmd.io/_uploads/HyEWFAOMC.svg
 categories:
     - US
 ---

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>US on uuBlog</title><link>https://blog.kuouu.tw/categories/us/</link><description>Recent content in US on uuBlog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.kuouu.tw/categories/us/index.xml" rel="self" type="application/rss+xml"/><item><title>2023 Fall SWE intern 美國找工心得</title><link>https://blog.kuouu.tw/p/2023-fall-swe-intern/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://blog.kuouu.tw/p/2023-fall-swe-intern/</guid><description>&lt;img src="https://hackmd.io/_uploads/B1a0zogXR.jpg" alt="Featured image of post 2023 Fall SWE intern 美國找工心得" />&lt;h1 id="2023-fall-swe-intern-美國找工心得">2023 Fall SWE intern 美國找工心得
+&lt;/h1>&lt;h2 id="履歷">履歷
+&lt;/h2>&lt;h3 id="工具">工具
+&lt;/h3>&lt;p>我一開始使用 Google Docs 來寫，後來發現有些格式想要改很麻煩，再加上想使用 git 來做版本管理，以及用更模組化的方式來編排內容，所以後續移到本地開發，並且使用 latex。但用了一段時間之後發現不過是寫一張 A4 紙的大小而已，搞這麼多技術其實有點 over-engineering，其實在 overleaf 上寫一個檔案就夠了，再加上 latex 可以做註解，在面對不同的職位可以用 comment / uncomment 來把需要的資訊呈現即可。有些學校提供 overleaf 的付費版帳號，可以去查查看有沒有，可以用一些進階功能，但跟前面提到的一樣，不過就是一份 A4 履歷而已，其實並不需要這麼多有的沒的。&lt;/p>
+&lt;h3 id="格式">格式
+&lt;/h3>&lt;p>對於格式我認為只要工整統一就沒有什麼問題，然後個人偏好不要太花或五顏六色的，但也有聽說有人背景用個亮黃色反而比較容易看見，這部分可以看個人喜好。&lt;/p>
+&lt;p>以線上投遞來說格式更不是重點，畢竟最後都是餵到 ATS(Applicant Tracking System)。有都市傳說說 ATS 對於解析表格內容常會解析不到，因此不建議用 latex，建議用 Google Docs 一行一行打就好。對此我個人反倒是沒什麼感覺，用自己習慣的就好了。&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.overleaf.com/latex/templates/tech-engineer-resume-template/ydjtqpvcybkr" target="_blank" rel="noopener"
+>我使用的 overleaf 模板&lt;/a>&lt;/p>
+&lt;h3 id="內容">內容
+&lt;/h3>&lt;p>內容編排其實網路上就有很多教學了，以大區塊來說我會覺得 &lt;code>工作經歷&lt;/code> &amp;raquo; &lt;code>專案&lt;/code> == &lt;code>研究&lt;/code> &amp;raquo; &lt;code>其他任何內容&lt;/code>，工作經驗最好是能改到完美，我自己在面試上除了工作經歷之外幾乎沒有被問到其他的。&lt;/p>
+&lt;p>Bullet point 的部分，我原先是以 &lt;code>做了什麼&lt;/code>＋&lt;code>使用的技能&lt;/code>＋&lt;code>量化成就&lt;/code> 來編排，但我後來發現似乎 &lt;code>使用的技能&lt;/code> 才是最重要的，最好是那種最熱門的、大家都聽過的、聽起來很高大上，而且是用來打造大型專案的，然後盡可能地在你 A4 的小紙張上堆砌這些名詞。&lt;/p>
+&lt;p>我是在看過這篇 &lt;a class="link" href="https://www.1point3acres.com/bbs/thread-305439-1-1.html" target="_blank" rel="noopener"
+>准备Project的方法论&lt;/a> 這篇文章過後覺得當中提出的 &lt;strong>Resume as a Todolist&lt;/strong> 這個概念很有意思，有點像是 fake it till you make it 的意味在。我後來在套用這個概念之後，除了幫助自己拿到面試外，也逼迫自己自己進步飛快。&lt;/p>
+&lt;p>寫履歷難免要有點澎風，但也是要注意避免過於誇大，後續入職很大機率是要被背景調查的；面試若針對相關經驗進行深入詢問，如果寫了之後沒有去更深入了解，被戳破也是會很難看。此外，在堆砌技術名詞時也要注意前後邏輯，真的了解的面試官很容易看破亂寫的人。&lt;/p>
+&lt;h3 id="回饋">回饋
+&lt;/h3>&lt;p>寫履歷一定要找人幫忙看過，我常常寫了覺得很完美，給別人看完之後發現幾乎要從頭改過一次，自己檢查的盲點太多了。&lt;/p>
+&lt;p>我會推薦可以在請別人幫忙模擬面試的當下，順便請對方幫忙看一下履歷，如果學校有什麼職涯中心可以幫忙，或是有認識的業界專家也可以詢問一下。&lt;/p>
+&lt;h3 id="投遞">投遞
+&lt;/h3>&lt;p>避免還有人不知道現代化的投履歷方式，我是使用 &lt;a class="link" href="https://simplify.jobs/" target="_blank" rel="noopener"
+>Simplify&lt;/a>，不管是不是跟我用同一款工具，在這個年代請不要全手動去填你的個人經歷。紀錄方面我後來是有開一個 Notion 頁面，對我來說比較實際的幫助僅僅是讓我大概知道最近投遞的數量而已。職缺列表我用 &lt;a class="link" href="https://github.com/SimplifyJobs/Summer2024-Internships" target="_blank" rel="noopener"
+>SimplifyJobs 的 GitHub repo&lt;/a>，還有他們 &lt;a class="link" href="https://simplify.jobs/matches" target="_blank" rel="noopener"
+>內建的職缺推薦&lt;/a>，加上 &lt;a class="link" href="https://www.linkedin.com/jobs/" target="_blank" rel="noopener"
+>Linkedin 上面的職缺列表&lt;/a>。職缺總是有的，看哪個其實不太重要。&lt;/p>
+&lt;p>我後來大概一天投 10 個職缺左右，有聽過認識的人一天投 50+ 的。我採用海投策略，不太做客製化，不寫 cover letter，頂多在投遞前篩選掉那些看起來完全不可能的而已。重複投遞個人認為沒關係，有聽過重複投遞反而被撈的經歷；還有聽過&lt;a class="link" href="https://medium.com/@jhan1998/summer-2024-intern-summary-b6ab14d0c253" target="_blank" rel="noopener"
+>投加拿大 Google 被轉到美國 Google 的故事&lt;/a>，我自己的經驗則是 jd（job description）寫Ａ領域被找去面Ｂ領域。所以才說美國找工 30% 實力 70% 運氣，多投一點總是沒錯的，重點是持續投遞。&lt;/p>
+&lt;hr>
+&lt;h2 id="面試">面試
+&lt;/h2>&lt;h3 id="coding">coding
+&lt;/h3>&lt;p>個人認為 &lt;a class="link" href="https://neetcode.io/" target="_blank" rel="noopener"
+>neetcode 75&lt;/a> 刷完就差不多了，如果真的要考應該就從這裡面出，如果不從裡面出的話應該也準備不到。&lt;/p>
+&lt;p>從 0 開始的話我推薦可以看 &lt;a class="link" href="https://labuladong.online/algo" target="_blank" rel="noopener"
+>labuladong 的算法笔记&lt;/a>，可以跟著他的思維去延伸到其他題目，Leetcode 裡面的網友詳解也可以看看，不要鑽牛角尖一題想超過半小時，該看答案就看答案，然後按照題目主題練，很快就能練上手的。&lt;/p>
+&lt;p>如果開始有面試的話可以考慮訂閱 premium，按照公司標籤去刷，聽說還蠻有幫助的，但我自己是沒有買就是了。&lt;/p>
+&lt;p>到後期我刷到有點心累，我變成開始寫 Daily Challenge，我認為這不是一個很好的練習方式，但以當下的我來說是已經每個主題都練過兩三輪了，主要的目標是要維持手感，算是一個讓自己堅持刷題的小訣竅吧！&lt;/p>
+&lt;p>&lt;img src="https://hackmd.io/_uploads/SJ3K8h_zR.png"
+loading="lazy"
+alt="image"
+>&lt;/p>
+&lt;h3 id="behavios-questionbq">Behavios Question（BQ）
+&lt;/h3>&lt;p>算是面試當中最不應該出問題的部分，網路可以搜尋 STAR method，有很多相關的文章和影片在講解如何應付 BQ。&lt;/p>
+&lt;p>我在跟學校職涯中心老師練習的時候，他有給我個蠻實用的建議：直接把你的回答寫下來，甚至是背下來。像我這種臨場反應比較慢的人，而且文字組織能力十分薄弱，寫下來真的幫助非常大。還有就是其實 BQ 會問到的類型就那些，稍微網路上搜索一下常見的 BQ 問題，常常出現的那幾題就是了。就算沒猜到題目，類似的主題也可以把準備的故事移花接木，所以我才會說這是面試過程最不應該出問題的環節。&lt;/p>
+&lt;h3 id="mock">Mock
+&lt;/h3>&lt;p>一定要練 Mock，主要是練臨場反應，對於英文苦手的人也是一個練習用英文表達的好機會。但練一定次數之後其實幫助就不太大了，頂多就是讓你進入一個面試的狀態。&lt;/p>
+&lt;hr>
+&lt;h2 id="networking">Networking
+&lt;/h2>&lt;h3 id="內推">內推
+&lt;/h3>&lt;p>以實習來說好像幫助其實不大，至少在我目前認識的人當中，靠內推上岸的人絕對是少數。我一開始也會在 Linkedin 上面私訊人來要內推，但這種所謂的「弱連結」幫助非常有限，不如拿相同的時間去多投幾個職缺，或是去改履歷還比較有幫助。我也常常看到網路上的文章說內推跟海投在公司內部是會分成不同的池子做處理的，只是我真的感受不到差異，身邊靠關係拿到面試或 offer 的都是新創，而且都跟內推人關係非常好。&lt;/p>
+&lt;h3 id="linkedin">Linkedin
+&lt;/h3>&lt;p>初期用來騷擾各種學長姐求內推的管道，不時還會收到一些獵頭私訊（但都沒有什麼幫助），後期就單純是拿來當作一個職缺列表，以及看一個人背景的肉搜工具（？&lt;/p>
+&lt;h3 id="career-fair">Career Fair
+&lt;/h3>&lt;p>我看我網路上文章都會說 Career Fair 很重要，現場面試現場上岸，但實際體驗之後覺得幾乎沒有幫助，頂多算是一個吃吃東西聊聊天的場合而已。很有可能跟大環境有關係，很多公司都只是來宣傳的而已，實際上去問他也都只會叫你去線上應徵，至少在我認識的人當中沒有靠這個拿到面試或 offer 的例子。&lt;/p>
+&lt;hr>
+&lt;h2 id="我的面經">我的面經
+&lt;/h2>&lt;p>從 2023 六月開始陸陸續續投，但在 2024 1/27 才開始認真紀錄。有記錄到的投遞共 265 家，面試 4 個，offer 一個。&lt;/p>
+&lt;h3 id="arena-club">Arena Club
+&lt;/h3>&lt;p>我的第一個面試經歷非常神奇，不知道為什麼被撈起來，最後也沒有一個結果，雖然自己面起來感覺也很明顯一定是被刷掉。&lt;/p>
+&lt;p>&lt;strong>timeline&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>??/?? 投履歷（我完全沒有印象我投了這家，我在各個平台也都找不到相關的投遞紀錄）&lt;/li>
+&lt;li>11/20 通知面試&lt;/li>
+&lt;li>11/28 面試&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>公司簡介&lt;/strong>&lt;/p>
+&lt;p>主要在做 sport card 買賣、認證、展示相關業務，總部在 LA（好像可遠距），總人數大約 35 人，sponsor visa。然後我感覺他們應該是比較想找 part-time 的實習生&lt;/p>
+&lt;p>&lt;strong>面試內容&lt;/strong>&lt;/p>
+&lt;p>官網 JD 寫有 Web/ML/DS 三個方向，但他好像是為了 ML 來找我的。（因為我當初履歷裡面有寫到相關經歷）&lt;/p>
+&lt;p>面試題目問了四題，全部都考 CV/ML 相關的問題，都是給一個比較模糊的問題問你怎麼解決，我在準備時有看到一個 &lt;a class="link" href="https://youtu.be/FpuiovvSPYc?si=dGLCe9wz4cLMCI4_" target="_blank" rel="noopener"
+>很類似的影片&lt;/a>。但我終究是太久沒碰這相關的東西了，被洗臉之後我就把 ML 相關經歷全部拿掉了。&lt;/p>
+&lt;h3 id="f5">F5
+&lt;/h3>&lt;p>因為簽了 NDA，怕出法律問題因此會講得比較模糊。&lt;/p>
+&lt;p>&lt;strong>timeline&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>一月底 海投&lt;/li>
+&lt;li>二月初 通知面試&lt;/li>
+&lt;li>二月中 一面&lt;/li>
+&lt;li>二月底 面試官覺得我面得不錯，但面試位置不夠，也不能給一個確定的答覆說會不會進行下去&lt;/li>
+&lt;li>三月初 下午五點寄信說有 Spot 了，問我明天早八能不能面試＝＝&lt;/li>
+&lt;li>隔天 三輪 45 分鐘面試&lt;/li>
+&lt;li>三月中 offer&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>公司簡介&lt;/strong>&lt;/p>
+&lt;p>做網路資安相關的公司，前陣子把 nginx 買下來然後大轉型的樣子，原本叫做 F5 network 最近改名成 F5，但其實到我寫的當下要準備入職了還是看不是很懂他到底是幹啥的：）&lt;/p>
+&lt;p>&lt;strong>面試內容&lt;/strong>&lt;/p>
+&lt;p>主要就是 BQ + Coding，BQ 沒有什麼特別的，Coding 我覺得也跟 LeetCode 沒有什麼關係，主要看你寫程式思考的邏輯，第二個 Coding test 我甚至沒寫出來，但他說我都會一直跟他互動，所以最後他有跟我說這樣很好。&lt;/p>
+&lt;h3 id="nvidia">Nvidia
+&lt;/h3>&lt;p>&lt;strong>timeline&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>02/04 海投&lt;/li>
+&lt;li>02/16 通知面試&lt;/li>
+&lt;li>02/27 一面&lt;/li>
+&lt;li>03/02 凌晨一點寄信reject&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>公司簡介&lt;/strong>&lt;/p>
+&lt;p>最近最火紅的公司，相信大家都很熟悉，不需要特別介紹。&lt;/p>
+&lt;p>但有個值得提出來講的點是我是投遞 ML Library 相關的職缺，卻是被 infra 相關的 team 撈起來。我後來有問面試官，他說 JD 裡面的不一定是你的工作內容，你投了履歷之後，如果有哪個 team 覺得 Ok 就會去撈你，面試也通常會是像我遇到的比較 general 類型的問題，來考察面試者各種不同方面的能力，同時他也覺得 NV 的題目不會故意挑很難。&lt;/p>
+&lt;p>網路上也有很多文章討論提到 NV 是極度扁平化的組織，並且是按照小組在招人的，組與組之間的面試風格也都有所差異，所以找到的面試心得跟面經其實都不太能參考。至少在我跟我朋友同樣面 NV 的經驗當中，即使同樣是面 infra 的組，面試內容差距也極大，所以有準備要面試這家的話最好做好心理準備網路上的資訊並不一定適用。&lt;/p>
+&lt;p>&lt;strong>面試內容&lt;/strong>&lt;/p>
+&lt;p>算是一個用 CI 情境包裝的 medium leetcode 問題，但我沒做出來：（
+他題目講得很久但很全面，然後你如果講錯或講不對會馬上把你導正。我們在討論花了蠻多時間的，一開始給出了 $O(n^2)$ 複雜度的解法，我有優化到 $O(nlogn)$，但他要的 $O(n)$ 我沒有想到他就直接跟我講了。最後大概剩下十幾分鐘寫 code，然後他還會一直糾正哪裡有錯誤，哪個 if statement 可能不太必要，我太緊張腦袋打結所以寫很慢，最後就沒寫完了。題目如下：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">給你很多個 tests 跟一個時限，假設你有無限個機器可以跑這些測試，回傳能夠在時限內跑完這些測試的分配方法，如果有多個解法，選使用最少機器的。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- input:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - tests = [&amp;#34;test1&amp;#34;, &amp;#34;test2&amp;#34;, &amp;#34;test3&amp;#34;, &amp;#34;test4&amp;#34;] // 是字串沒錯，他要我自己定義資料結構來存 string 跟 number
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - time_limit = 6
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- output: [[&amp;#34;test1&amp;#34;, &amp;#34;test4&amp;#34;], [&amp;#34;test2&amp;#34;, &amp;#34;test3&amp;#34;]]
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="plusai">PlusAI
+&lt;/h3>&lt;p>&lt;strong>timeline&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>3/5 海投&lt;/li>
+&lt;li>3/8 寄信約 HR phone screening&lt;/li>
+&lt;li>3/13 20 min HR phone screening&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>公司簡介&lt;/strong>&lt;/p>
+&lt;p>這間好像是做卡車自動駕駛的，實習生應該是幫他們做 dashboard 類型的工具，然後感覺是從 0 開始做的專案。&lt;/p>
+&lt;p>&lt;strong>面試內容&lt;/strong>&lt;/p>
+&lt;p>問我履歷內容、就學狀況、為什麼離開前公司、最熟悉的程式語言、會前後端嗎？比較想做哪個之類的問題&lt;/p>
+&lt;p>但因為我有 offer deadline，他說他幫我問能不能加速面試過程。他後來回我說不行，面試至少要 1~2 週，決定候選人還要再一週，所以就沒有後續了&lt;/p>
+&lt;hr>
+&lt;h2 id="心得">心得
+&lt;/h2>&lt;p>還記得在來美國之前常常聽到有人說 CS 末班車已經過了，我不完全認同，但環境相比前幾年真的困難許多。網路上都說 CMUSV 是以就業率超高著名，甚至他在我們入學前還要給我們一份歷屆的就業數據，然後叫我們要在上面簽名，但以實習的結果來說（至少在我認識的人當中），我並不會覺得他在就業方面有任何的優勢。&lt;/p>
+&lt;p>但是還是有人來沒幾個月就上岸了，厲害的人還是在那邊討論到底要接哪個 offer，我依舊相信強者從不抱怨環境，自己實力到哪終究是會到該去的地方。&lt;/p>
+&lt;p>另外，我自己還是蠻推薦可以找一些朋友一起刷題，一起模擬面試的，有人互相砥礪總比自己孤軍奮戰強。&lt;/p></description></item></channel></rss>

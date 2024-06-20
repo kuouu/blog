@@ -23,7 +23,7 @@ src = "https://avatars.githubusercontent.com/u/20458463?v=4"
 
 [article]
 headingAnchor = false
-math = false
+math = true
 readingTime = false
 
 [article.license]
